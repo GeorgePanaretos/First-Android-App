@@ -1,5 +1,3 @@
-Sure! Here's a markdown documentation for the "First Android App" repository with the use of emojis:
-
 # First Android App :rocket:
 
 ## Introduction :wave:
@@ -56,9 +54,5 @@ If you encounter any issues or have suggestions for improvements, please [open a
 ## License :page_with_curl:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact :email:
-
-If you have any questions or need further assistance, feel free to contact the project owner at george.panaretos@example.com.
 
 🎉 Thank you for using the **First Android App** repository! We hope you find it helpful and informative. Happy coding! 🚀
